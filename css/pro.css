@@ -1,0 +1,23 @@
+.container{
+padding: 30px;
+background-color: gray;
+width: 600px;
+height: 800px;
+}
+.c1{
+    background-color: aqua;
+    float: left;
+    width: 25%;
+    
+}
+.c2{
+    background-color: brown;
+    float: left;
+    
+    
+}
+.c3{
+    background-color: chocolate;
+    
+    clear: both;
+}

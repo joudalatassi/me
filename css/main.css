@@ -1,0 +1,21 @@
+table,tr{
+width: 70%;
+/* border-collapse: collapse; */
+border: 3px solid;
+margin: auto;
+border-radius: 20%;
+}
+td,th{
+    /* border: 1px solid; */
+    text-align: center;
+    padding: 20px;
+
+
+}
+th{
+    color: azure;
+    font-style: italic;
+    background-color: aqua;
+    border-collapse: collapse;
+
+}
